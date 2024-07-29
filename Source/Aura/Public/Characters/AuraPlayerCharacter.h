@@ -3,12 +3,10 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "AuraCharacterBase.h"
+#include "Characters/AuraCharacterBase.h"
 #include "AuraPlayerCharacter.generated.h"
 
-/**
- * 
- */
+
 UCLASS()
 class AURA_API AAuraPlayerCharacter : public AAuraCharacterBase
 {
