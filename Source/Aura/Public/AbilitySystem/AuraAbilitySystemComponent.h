@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "AbilitySystemComponent.h"
-#include "AuraGameAbilitySystemComponent.generated.h"
+#include "AuraAbilitySystemComponent.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class AURA_API UAuraGameAbilitySystemComponent : public UAbilitySystemComponent
+class AURA_API UAuraAbilitySystemComponent : public UAbilitySystemComponent
 {
 	GENERATED_BODY()
 	
