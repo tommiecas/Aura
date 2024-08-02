@@ -1,8 +1,27 @@
 {
 	"FileVersion": 3,
+<<<<<<< HEAD
 	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
+=======
+	"EngineAssociation": "5.4",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Aura",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"GameplayAbilities",
+				"UMG",
+				"CoreUObject"
+			]
+		}
+	],
+>>>>>>> 6f4c61dacffa8709e85b430f03405f4221bbac46
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -10,6 +29,17 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+<<<<<<< HEAD
+=======
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": true
+>>>>>>> 6f4c61dacffa8709e85b430f03405f4221bbac46
 		}
 	]
 }
