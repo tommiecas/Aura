@@ -12,7 +12,9 @@
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/UI/HUD/BP_AuraHUD.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/UI/ProgressBars/WBP_GlobeProgressBarBase.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/UI/WidgetController/BP_OverlayWidgetController.uasset",
-				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/UI/ProgressBars/WBP_ManaGlobe.uasset"
+				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/UI/ProgressBars/WBP_ManaGlobe.uasset",
+				"C:/Users/tom/Documents/GitHub/Aura/Content/Maps/StartupMap.umap",
+				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/BP_HealthPotion.uasset"
 			]
 		}
 	]
