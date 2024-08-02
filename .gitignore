@@ -8,6 +8,10 @@ Build
 .vs
 *.VC.db
 *.opensdf
+<<<<<<< HEAD
+*.opendb
+=======
+>>>>>>> 6f4c61dacffa8709e85b430f03405f4221bbac46
 *.sdf
 *.sln
 *.suo
