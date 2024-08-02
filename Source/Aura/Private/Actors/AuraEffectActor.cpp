@@ -25,16 +25,16 @@ void AAuraEffectActor::BeginPlay()
 
 }
 
-void AAuraEffectActor::ApplyEffectToTarget(AActor* Target, TSubclassOf<UGameplayEffect> GameplayEffectClass) 
+void AAuraEffectActor::ApplyEffectToTarget(AActor* TargetActor, TSubclassOf<UGameplayEffect> GameplayEffectClass) 
 {
-	UAbilitySystemComponent* TargetASC = UAbilitySystemBlueprintLibrary::GetAbilitySystemComponent(Target);
-	if (TargetASC == nullptr) return;
+	UAbilitySystemComponent* TargetAsc = UAbilitySystemBlueprintLibrary::GetAbilitySystemComponent(TargetActor);
+	if (TargetAsc == nullptr) return;
 
 	check(GameplayEffectClass);
-	FGameplayEffectContextHandle EffectContextHandle = TargetASC->MakeEffectContext();
+	FGameplayEffectContextHandle EffectContextHandle = TargetAsc->MakeEffectContext();
 	EffectContextHandle.AddSourceObject(this);
-	FGameplayEffectSpecHandle EffectSpecHandle = TargetASC->MakeOutgoingSpec(GameplayEffectClass, 1.f, EffectContextHandle);
-	TargetASC->ApplyGameplayEffectSpecToSelf(*EffectSpecHandle.Data.Get());
+	const FGameplayEffectSpecHandle EffectSpecHandle = TargetAsc->MakeOutgoingSpec(GameplayEffectClass, 1.f, EffectContextHandle);
+	TargetAsc->ApplyGameplayEffectSpecToSelf(*EffectSpecHandle.Data.Get());
 }
 
 
