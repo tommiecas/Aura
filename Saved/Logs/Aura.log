@@ -1502,3 +1502,80 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.08.02-11.21.56:118][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2024.08.02-11.21.56:133][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
 [2024.08.02-11.21.56:200][399]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.08.02-11.26.38:258][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.08.02-11.26.38:273][502]LogStall: Shutdown...
+[2024.08.02-11.26.38:278][502]LogStall: Shutdown complete.
+[2024.08.02-11.26.38:306][502]LogSlate: Window 'Aura - Unreal Editor' being destroyed
+[2024.08.02-11.26.38:353][502]Cmd: QUIT_EDITOR
+[2024.08.02-11.26.38:354][503]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.08.02-11.26.38:355][503]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.08.02-11.26.38:355][503]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.08.02-11.26.38:355][503]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.08.02-11.26.38:355][503]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.02-11.26.38:356][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.02-11.26.38:356][503]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.08.02-11.26.38:356][503]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.08.02-11.26.38:360][503]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.08.02-11.26.38:362][503]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.08.02-11.26.38:362][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.02-11.26.38:365][503]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.08.02-11.26.38:365][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.02-11.26.38:508][503]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.08.02-11.26.38:511][503]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.08.02-11.26.38:511][503]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.08.02-11.26.38:511][503]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.08.02-11.26.39:137][503]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.08.02-11.26.39:137][503]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.08.02-11.26.39:137][503]LogAudio: Display: Audio Device unregistered from world 'StartupMap'.
+[2024.08.02-11.26.39:137][503]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.08.02-11.26.39:137][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.08.02-11.26.39:139][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.08.02-11.26.39:143][503]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.08.02-11.26.39:143][503]LogAudio: Display: Audio Device Manager Shutdown
+[2024.08.02-11.26.39:149][503]LogSlate: Window 'Content Browser' being destroyed
+[2024.08.02-11.26.39:155][503]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.08.02-11.26.39:161][503]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.08.02-11.26.39:161][503]LogExit: Preparing to exit.
+[2024.08.02-11.26.39:181][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.08.02-11.26.39:185][503]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:185][503]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:185][503]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:185][503]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:185][503]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:185][503]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:185][503]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:186][503]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:186][503]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:186][503]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:186][503]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:186][503]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:186][503]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:186][503]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:186][503]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:186][503]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:187][503]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:187][503]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:187][503]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:187][503]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.39:187][503]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.02-11.26.40:567][503]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.08.02-11.26.40:579][503]LogExit: Editor shut down
+[2024.08.02-11.26.40:580][503]LogExit: Transaction tracking system shut down
+[2024.08.02-11.26.40:662][503]LogExit: Object subsystem successfully closed.
+[2024.08.02-11.26.40:671][503]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.08.02-11.26.40:696][503]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.08.02-11.26.41:558][503]MemoryProfiler: Shutdown
+[2024.08.02-11.26.41:558][503]NetworkingProfiler: Shutdown
+[2024.08.02-11.26.41:559][503]LoadingProfiler: Shutdown
+[2024.08.02-11.26.41:559][503]TimingProfiler: Shutdown
+[2024.08.02-11.26.41:620][503]LogOpenImageDenoise: OIDN shutting down
+[2024.08.02-11.26.42:271][503]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.08.02-11.26.42:271][503]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA09F3CEC-4B59-41F3-A540-7E868309946B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.3-34507850%2B%2B%2BUE5%2BRelease-5.4&UserID=da6ce8c246247b3f839cebaa5d507cb7%7C158c287d3d7042f19181c74cccbbc5b0%7Cb7b9049a-c8ca-4131-ac2b-2672dc900c1d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.08.02-11.26.42:297][503]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.08.02-11.26.42:299][503]RenderDocPlugin: plugin has been unloaded.
+[2024.08.02-11.26.42:300][503]LogXGEController: Cleaning working directory: C:/Users/tom/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.08.02-11.26.42:302][503]LogPakFile: Destroying PakPlatformFile
+[2024.08.02-11.26.42:305][503]LogD3D11RHI: Shutdown
+[2024.08.02-11.26.42:305][503]LogD3D11RHI: CleanupD3DDevice
+[2024.08.02-11.26.42:319][503]LogExit: Exiting.
+[2024.08.02-11.26.42:332][503]Log file closed, 08/02/24 04:26:42
