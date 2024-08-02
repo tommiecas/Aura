@@ -11,7 +11,8 @@
 				"C:/Users/tom/Documents/GitHub/Aura/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/UI/HUD/BP_AuraHUD.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/UI/ProgressBars/WBP_GlobeProgressBarBase.uasset",
-				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/UI/WidgetController/BP_OverlayWidgetController.uasset"
+				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/UI/WidgetController/BP_OverlayWidgetController.uasset",
+				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/UI/ProgressBars/WBP_ManaGlobe.uasset"
 			]
 		}
 	]
