@@ -18,6 +18,11 @@
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Potions/GE_PotionHeal.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Potions/GE_PotionMana.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Potions/BP_ManaPotion.uasset",
+				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Potions/GE_CrystalHeal.uasset",
+				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalHeal.uasset",
+				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/BP_HealthCrystal.uasset",
+				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalMana.uasset",
+				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/BP_ManaCrystal.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/BP_HealthPotion.uasset"
 			]
 		}
