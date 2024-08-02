@@ -1,10 +1,8 @@
 {
 	"FileVersion": 3,
-<<<<<<< HEAD
 	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
-=======
 	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
@@ -21,7 +19,6 @@
 			]
 		}
 	],
->>>>>>> 6f4c61dacffa8709e85b430f03405f4221bbac46
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -29,8 +26,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-<<<<<<< HEAD
-=======
 		},
 		{
 			"Name": "GameplayAbilities",
@@ -39,7 +34,6 @@
 		{
 			"Name": "SkeletalMeshModelingTools",
 			"Enabled": true
->>>>>>> 6f4c61dacffa8709e85b430f03405f4221bbac46
 		}
 	]
 }
