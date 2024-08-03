@@ -2166,3 +2166,86 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.08.02-23.58.48:399][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
 [2024.08.02-23.58.48:405][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
 [2024.08.02-23.58.48:458][891]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.08.02-23.59.22:513][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.08.02-23.59.22:515][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartupMap" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.08.02-23.59.22:522][ 71]LogWorldPartition: Can't find class descriptor '/Game/Maps/StartupMap.StartupMap_C' for saving '/Game/Maps/StartupMap.StartupMap_C'
+[2024.08.02-23.59.22:522][ 71]LogWorldPartition: Can't find class descriptor '/Game/Maps/StartupMap.StartupMap_C' for saving '/Game/Maps/StartupMap.StartupMap_C'
+[2024.08.02-23.59.22:527][ 71]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/StartupMap_Auto2
+[2024.08.02-23.59.22:527][ 71]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/StartupMap_Auto2916B11B842680C73A1E9FD83DB043EEB.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto2.umap'
+[2024.08.02-23.59.22:528][ 71]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto2.umap is in the /Temp path, will not scan.
+[2024.08.02-23.59.22:530][ 71]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/StartupMap_Auto2 is in the /Temp path, will not scan.
+[2024.08.02-23.59.22:530][ 71]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/StartupMap_Auto2 is in the /Temp path, will not scan.
+[2024.08.02-23.59.22:530][ 71]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.033
+[2024.08.02-23.59.22:530][ 71]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2024.08.02-23.59.22:530][ 71]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal] ([2] browsable assets)...
+[2024.08.02-23.59.22:530][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal]
+[2024.08.02-23.59.22:532][ 71]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Crystals/GE_CrystalHeal_Auto2
+[2024.08.02-23.59.22:532][ 71]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_CrystalHeal_Auto225F1B24A49EDC2CF1FB30CA8B614528F.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Blueprints/Actors/Crystals/GE_CrystalHeal_Auto2.uasset'
+[2024.08.02-23.59.22:533][ 71]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.08.03-00.01.03:230][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.08.03-00.01.05:076][  3]LogSlate: Window 'Save Content' being destroyed
+[2024.08.03-00.01.05:091][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.03-00.01.05:142][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartupMap" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Content/Maps/StartupMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.03-00.01.05:164][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.08.03-00.01.05:172][  3]LogWorldPartition: Can't find class descriptor '/Game/Maps/StartupMap.StartupMap_C' for saving '/Game/Maps/StartupMap.StartupMap_C'
+[2024.08.03-00.01.05:172][  3]LogWorldPartition: Can't find class descriptor '/Game/Maps/StartupMap.StartupMap_C' for saving '/Game/Maps/StartupMap.StartupMap_C'
+[2024.08.03-00.01.05:177][  3]LogSavePackage: Moving output files for package: /Game/Maps/StartupMap
+[2024.08.03-00.01.05:177][  3]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/StartupMap83752C484C9FA7142D32B5AF884BCFDC.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Maps/StartupMap.umap'
+[2024.08.03-00.01.05:181][  3]LogFileHelpers: Saving map 'StartupMap' took 0.040
+[2024.08.03-00.01.05:182][  3]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal] ([2] browsable assets)...
+[2024.08.03-00.01.05:182][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal]
+[2024.08.03-00.01.05:182][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/Crystals/GE_CrystalHeal" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalHeal.uasset" SILENT=true
+[2024.08.03-00.01.05:183][  3]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/Crystals/GE_CrystalHeal
+[2024.08.03-00.01.05:184][  3]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_CrystalHeal7C83ED5C4C5ECF610CEAA19A1934B5CB.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalHeal.uasset'
+[2024.08.03-00.01.05:198][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.151 ms (total: 837.418 ms)
+[2024.08.03-00.01.05:259][  3]LogContentValidation: Display: Starting to validate 2 assets
+[2024.08.03-00.01.05:259][  3]LogContentValidation: Enabled validators:
+[2024.08.03-00.01.05:259][  3]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.03-00.01.05:259][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.03-00.01.05:259][  3]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.03-00.01.05:259][  3]LogContentValidation: Display: Validating asset /Game/Maps/StartupMap.StartupMap
+[2024.08.03-00.01.05:260][  3]AssetCheck: /Game/Maps/StartupMap Validating asset
+[2024.08.03-00.01.05:260][  3]LogContentValidation: Display: Validating asset /Game/Blueprints/Actors/Crystals/GE_CrystalHeal.GE_CrystalHeal
+[2024.08.03-00.01.05:260][  3]AssetCheck: /Game/Blueprints/Actors/Crystals/GE_CrystalHeal Validating asset
+[2024.08.03-00.01.05:287][  3]LogAutomationController: Ignoring very large delta of 2.07 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.08.03-00.09.10:003][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.08.03-00.11.03:101][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.08.03-00.11.03:104][538]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.014
+[2024.08.03-00.11.03:104][538]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Crystals/GE_CrystalMana] ([2] browsable assets)...
+[2024.08.03-00.11.03:104][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Crystals/GE_CrystalMana]
+[2024.08.03-00.11.03:106][538]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Crystals/GE_CrystalMana_Auto3
+[2024.08.03-00.11.03:106][538]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_CrystalMana_Auto3A46AFFE740FB13BF89E07CAB24D2A183.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Blueprints/Actors/Crystals/GE_CrystalMana_Auto3.uasset'
+[2024.08.03-00.11.03:107][538]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.08.03-00.15.57:465][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.08.03-00.18.33:399][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.08.03-00.18.34:097][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.03-00.18.34:142][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal] ([2] browsable assets)...
+[2024.08.03-00.18.34:142][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal]
+[2024.08.03-00.18.34:142][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/Crystals/GE_CrystalHeal" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalHeal.uasset" SILENT=true
+[2024.08.03-00.18.34:144][324]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/Crystals/GE_CrystalHeal
+[2024.08.03-00.18.34:145][324]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_CrystalHeal17FEA09343635135A1AF3188CD03FF1C.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalHeal.uasset'
+[2024.08.03-00.18.34:154][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.889 ms (total: 895.307 ms)
+[2024.08.03-00.18.34:206][324]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.03-00.18.34:207][324]LogContentValidation: Enabled validators:
+[2024.08.03-00.18.34:207][324]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.03-00.18.34:207][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.03-00.18.34:207][324]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.03-00.18.34:207][324]LogContentValidation: Display: Validating asset /Game/Blueprints/Actors/Crystals/GE_CrystalHeal.GE_CrystalHeal
+[2024.08.03-00.18.34:207][324]AssetCheck: /Game/Blueprints/Actors/Crystals/GE_CrystalHeal Validating asset
+[2024.08.03-00.18.36:243][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.08.03-00.18.36:987][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.03-00.18.37:011][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Crystals/GE_CrystalMana] ([2] browsable assets)...
+[2024.08.03-00.18.37:011][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Crystals/GE_CrystalMana]
+[2024.08.03-00.18.37:011][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/Crystals/GE_CrystalMana" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalMana.uasset" SILENT=true
+[2024.08.03-00.18.37:013][621]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/Crystals/GE_CrystalMana
+[2024.08.03-00.18.37:013][621]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_CrystalManaEC177483417BA416333627AB1B7A0BD6.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalMana.uasset'
+[2024.08.03-00.18.37:024][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.873 ms (total: 932.181 ms)
+[2024.08.03-00.18.37:080][621]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.03-00.18.37:080][621]LogContentValidation: Enabled validators:
+[2024.08.03-00.18.37:080][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.03-00.18.37:080][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.03-00.18.37:080][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.03-00.18.37:080][621]LogContentValidation: Display: Validating asset /Game/Blueprints/Actors/Crystals/GE_CrystalMana.GE_CrystalMana
+[2024.08.03-00.18.37:080][621]AssetCheck: /Game/Blueprints/Actors/Crystals/GE_CrystalMana Validating asset
+[2024.08.03-00.18.48:182][920]LogSlate: Window 'Content Browser' being destroyed
+[2024.08.03-00.18.48:193][920]LogSlate: Window 'Content Browser' being destroyed
