@@ -1581,3 +1581,41 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.08.07-07.26.32:622][238]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
 [2024.08.07-07.26.50:577][683]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
 [2024.08.07-07.26.59:175][361]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
+[2024.08.07-07.31.16:819][244]LogSlate: Window 'Project Settings' being destroyed
+[2024.08.07-07.31.20:701][644]LogSlate: Window 'Gameplay Tag Manager' being destroyed
+[2024.08.07-07.31.29:433][515]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.08.07-07.31.29:445][515]LogContentBrowser: Creating deferred item: NewFolder
+[2024.08.07-07.31.29:454][516]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.08.07-07.31.36:036][230]LogContentBrowser: Attempting asset rename: NewFolder -> AbilitySystem
+[2024.08.07-07.31.36:036][230]LogContentBrowser: End creating deferred item NewFolder
+[2024.08.07-07.31.41:012][727]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.08.07-07.31.41:029][727]LogContentBrowser: Creating deferred item: NewFolder
+[2024.08.07-07.31.41:046][729]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.08.07-07.31.47:225][403]LogContentBrowser: Attempting asset rename: NewFolder -> GameplayTags
+[2024.08.07-07.31.47:225][403]LogContentBrowser: End creating deferred item NewFolder
+[2024.08.07-07.32.08:000][919]LogSlate: Window 'Pick Row Structure' being destroyed
+[2024.08.07-07.32.08:010][919]LogContentBrowser: Deferred new asset file creation: NewDataTable
+[2024.08.07-07.32.08:017][919]LogContentBrowser: Creating deferred item: NewDataTable
+[2024.08.07-07.32.08:035][921]LogContentBrowser: Renaming the item being created (Deferred Item: NewDataTable).
+[2024.08.07-07.32.38:237][245]LogContentBrowser: Attempting asset rename: NewDataTable -> DT_PrimaryAttributes
+[2024.08.07-07.32.38:238][245]LogContentBrowser: End creating deferred item NewDataTable
+[2024.08.07-07.32.39:731][407]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/AbilitySystem/GameplayTags/DT_PrimaryAttributes.DT_PrimaryAttributes
+[2024.08.07-07.35.45:081][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.07-07.35.45:130][172]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/GameplayTags/DT_PrimaryAttributes] ([1] browsable assets)...
+[2024.08.07-07.35.45:130][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/GameplayTags/DT_PrimaryAttributes]
+[2024.08.07-07.35.45:131][172]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/GameplayTags/DT_PrimaryAttributes
+[2024.08.07-07.35.45:131][172]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/DT_PrimaryAttributes3BA92D684E9D4979053C95949D563C3E.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/AbilitySystem/GameplayTags/DT_PrimaryAttributes.uasset'
+[2024.08.07-07.35.45:142][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.711 ms (total: 546.330 ms)
+[2024.08.07-07.35.45:193][172]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.07-07.35.45:193][172]LogContentValidation: Enabled validators:
+[2024.08.07-07.35.45:193][172]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.07-07.35.45:193][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.07-07.35.45:193][172]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.07-07.35.45:193][172]LogContentValidation: Display: Validating asset /Game/Blueprints/AbilitySystem/GameplayTags/DT_PrimaryAttributes.DT_PrimaryAttributes
+[2024.08.07-07.35.45:193][172]AssetCheck: /Game/Blueprints/AbilitySystem/GameplayTags/DT_PrimaryAttributes Validating asset
+[2024.08.07-07.35.46:459][278]LogSlate: Window 'DT_PrimaryAttributes' being destroyed
+[2024.08.07-07.35.50:559][651]LogSlate: External Image Picker: DecompressImage failed
+[2024.08.07-07.36.01:403][729]LogUObjectGlobals: Warning: Failed to find object 'DataTable None.'
+[2024.08.07-07.36.01:403][729]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path ../../../../../../Users/tom/Documents/GitHub/Aura/Config/DefaultEngine.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2024.08.07-07.37.10:059][412]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path ../../../../../../Users/tom/Documents/GitHub/Aura/Config/DefaultEngine.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2024.08.07-07.37.29:028][ 82]LogSlate: Window 'Gameplay Tag Manager' being destroyed
