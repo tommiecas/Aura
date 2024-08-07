@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/tom/Documents/Unreal Projects/Aura/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/UI/Overlays/WBP_Overlay.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/UI/ProgressBars/WBP_HealthGlobe.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/StarterContent/Architecture/Floor_400x400.uasset",
@@ -18,13 +17,16 @@
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Potions/GE_PotionHeal.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Potions/GE_PotionMana.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Potions/BP_ManaPotion.uasset",
-				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Potions/GE_CrystalHeal.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalHeal.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/BP_HealthCrystal.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalMana.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/BP_ManaCrystal.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Areas/BP_FireArea.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Areas/GE_FireArea.uasset",
+				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Potions/CT_PotionHeal.uasset",
+				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Potions/CT_Potion.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Aura/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Potions/GE_CrystalHeal.uasset",
 				"C:/Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/BP_HealthPotion.uasset"
 			]
 		}
