@@ -1570,3 +1570,14 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.08.07-07.14.51:168][432]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/StartupMap_Auto1 is in the /Temp path, will not scan.
 [2024.08.07-07.14.51:168][432]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.022
 [2024.08.07-07.14.51:168][432]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2024.08.07-07.20.27:532][802]LogSlate: External Image Picker: DecompressImage failed
+[2024.08.07-07.21.40:485][334]LogSlate: Window 'Gameplay Tag Manager' being destroyed
+[2024.08.07-07.22.08:282][465]LogSlate: Window 'Add new Gameplay Tag Source' being destroyed
+[2024.08.07-07.22.18:018][295]LogSlate: Window 'Gameplay Tag Manager' being destroyed
+[2024.08.07-07.22.52:795][311]LogSlate: Window 'Gameplay Tag Manager' being destroyed
+[2024.08.07-07.23.12:092][103]LogSlate: Window 'Add new Gameplay Tag Source' being destroyed
+[2024.08.07-07.23.16:375][490]LogSlate: Window 'Gameplay Tag Manager' being destroyed
+[2024.08.07-07.25.46:724][550]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
+[2024.08.07-07.26.32:622][238]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
+[2024.08.07-07.26.50:577][683]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
+[2024.08.07-07.26.59:175][361]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
