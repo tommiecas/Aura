@@ -1619,3 +1619,271 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.08.07-07.36.01:403][729]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path ../../../../../../Users/tom/Documents/GitHub/Aura/Config/DefaultEngine.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
 [2024.08.07-07.37.10:059][412]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path ../../../../../../Users/tom/Documents/GitHub/Aura/Config/DefaultEngine.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
 [2024.08.07-07.37.29:028][ 82]LogSlate: Window 'Gameplay Tag Manager' being destroyed
+[2024.08.07-07.39.03:019][116]LogSlate: Window 'Project Settings' being destroyed
+[2024.08.07-07.39.13:388][243]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2024.08.07-07.39.13:394][243]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2024.08.07-07.39.16:881][592]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/Crystals/BP_HealthCrystal.BP_HealthCrystal_C
+[2024.08.07-07.39.16:881][592]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/Crystals/BP_HealthCrystal.BP_HealthCrystal_C
+[2024.08.07-07.39.16:883][592]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/Crystals/BP_HealthCrystal.BP_HealthCrystal as actor: BP_HealthCrystal_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_HealthCrystal_C_0
+[2024.08.07-07.39.16:883][592]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/Crystals/BP_HealthCrystal.BP_HealthCrystal as actor: BP_HealthCrystal_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_HealthCrystal_C_0
+[2024.08.07-07.39.19:908][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.08.07-07.39.19:912][918]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2024.08.07-07.39.19:921][918]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/Crystals/BP_HealthCrystal.BP_HealthCrystal_C
+[2024.08.07-07.39.19:921][918]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/Crystals/BP_HealthCrystal.BP_HealthCrystal_C
+[2024.08.07-07.39.19:922][918]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/Crystals/BP_HealthCrystal.BP_HealthCrystal as actor: BP_HealthCrystal_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_HealthCrystal_C_2
+[2024.08.07-07.39.19:923][918]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/Crystals/BP_HealthCrystal.BP_HealthCrystal as actor: BP_HealthCrystal_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_HealthCrystal_C_2
+[2024.08.07-07.39.39:344][ 40]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Crystals/GE_CrystalHeal.GE_CrystalHeal
+[2024.08.07-07.39.39:344][ 40]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2024.08.07-07.39.48:594][951]LogSlate: Window 'GE_CrystalHeal' being destroyed
+[2024.08.07-07.39.48:605][951]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.08.07-07.39.48:605][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.07-07.39.48:612][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Crystals/GE_CrystalHeal.GE_CrystalHeal
+[2024.08.07-07.39.48:612][951]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_16'.
+[2024.08.07-07.39.48:745][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.08.07-07.42.16:165][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.08.07-07.42.16:166][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartupMap" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.08.07-07.42.16:175][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/StartupMap_Auto2
+[2024.08.07-07.42.16:175][238]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/StartupMap_Auto28569F09E4039C87C69F24FADDA909ADC.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto2.umap'
+[2024.08.07-07.42.16:176][238]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto2.umap is in the /Temp path, will not scan.
+[2024.08.07-07.42.16:176][238]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/StartupMap_Auto2 is in the /Temp path, will not scan.
+[2024.08.07-07.42.16:176][238]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/StartupMap_Auto2 is in the /Temp path, will not scan.
+[2024.08.07-07.42.16:176][238]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.020
+[2024.08.07-07.42.16:176][238]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2024.08.07-07.42.16:177][238]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal] ([2] browsable assets)...
+[2024.08.07-07.42.16:177][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal]
+[2024.08.07-07.42.16:178][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Crystals/GE_CrystalHeal_Auto2
+[2024.08.07-07.42.16:178][238]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_CrystalHeal_Auto2AF6E566249EA6F9EA0FFE8A5DEF2ECCD.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Blueprints/Actors/Crystals/GE_CrystalHeal_Auto2.uasset'
+[2024.08.07-07.42.16:178][238]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.08.07-07.45.32:646][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.08.07-07.45.36:090][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.07-07.45.36:139][665]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal] ([2] browsable assets)...
+[2024.08.07-07.45.36:139][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal]
+[2024.08.07-07.45.36:139][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/Crystals/GE_CrystalHeal" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalHeal.uasset" SILENT=true
+[2024.08.07-07.45.36:141][665]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/Crystals/GE_CrystalHeal
+[2024.08.07-07.45.36:141][665]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_CrystalHeal7F7C1E8A4CDD666DC00BA1A1A44D727D.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalHeal.uasset'
+[2024.08.07-07.45.36:151][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.525 ms (total: 607.855 ms)
+[2024.08.07-07.45.36:187][665]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.07-07.45.36:187][665]LogContentValidation: Enabled validators:
+[2024.08.07-07.45.36:187][665]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.07-07.45.36:187][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.07-07.45.36:187][665]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.07-07.45.36:187][665]LogContentValidation: Display: Validating asset /Game/Blueprints/Actors/Crystals/GE_CrystalHeal.GE_CrystalHeal
+[2024.08.07-07.45.36:187][665]AssetCheck: /Game/Blueprints/Actors/Crystals/GE_CrystalHeal Validating asset
+[2024.08.07-07.46.01:300][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.08.07-07.46.07:929][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.08.07-07.46.09:055][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.07-07.46.09:120][382]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal] ([2] browsable assets)...
+[2024.08.07-07.46.09:121][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal]
+[2024.08.07-07.46.09:121][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/Crystals/GE_CrystalHeal" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalHeal.uasset" SILENT=true
+[2024.08.07-07.46.09:122][382]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/Crystals/GE_CrystalHeal
+[2024.08.07-07.46.09:122][382]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_CrystalHeal48B4584242A50EFF1303ACB73789CCC6.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalHeal.uasset'
+[2024.08.07-07.46.09:133][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.524 ms (total: 685.379 ms)
+[2024.08.07-07.46.09:187][382]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.07-07.46.09:187][382]LogContentValidation: Enabled validators:
+[2024.08.07-07.46.09:187][382]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.07-07.46.09:187][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.07-07.46.09:187][382]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.07-07.46.09:187][382]LogContentValidation: Display: Validating asset /Game/Blueprints/Actors/Crystals/GE_CrystalHeal.GE_CrystalHeal
+[2024.08.07-07.46.09:187][382]AssetCheck: /Game/Blueprints/Actors/Crystals/GE_CrystalHeal Validating asset
+[2024.08.07-07.46.14:906][845]LogSlate: Window 'GE_CrystalHeal' being destroyed
+[2024.08.07-07.46.14:922][845]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.08.07-07.46.14:923][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.07-07.46.14:945][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.08.07-07.46.24:479][872]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.07-07.46.24:485][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.07-07.46.24:517][872]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.08.07-07.46.24:520][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002796s)
+[2024.08.07-07.46.24:520][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.002946s)
+[2024.08.07-07.46.24:528][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.08.07-07.46.24:528][872]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.08.07-07.46.24:529][872]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Maps/UEDPIE_0_StartupMap.StartupMap'.
+[2024.08.07-07.46.24:530][872]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2024.08.07-07.46.24:534][872]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.08.07-07.46.24:534][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.07-07.46.24:534][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.07-07.46.24:534][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.07-07.46.24:534][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.07-07.46.24:534][872]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.07-07.46.24:534][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.07-07.46.24:534][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.07-07.46.24:534][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.07-07.46.24:534][872]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.07-07.46.24:534][872]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.07-07.46.24:534][872]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.07-07.46.24:535][872]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.07-07.46.24:546][872]LogAudioMixer: Display: Using Audio Hardware Device 4 - LU28R55 (AMD High Definition Audio Device)
+[2024.08.07-07.46.24:546][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.07-07.46.24:546][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.07-07.46.24:546][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.07-07.46.24:547][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.08.07-07.46.24:547][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.08.07-07.46.24:548][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.08.07-07.46.24:548][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.08.07-07.46.24:548][872]LogInit: FAudioDevice initialized with ID 4.
+[2024.08.07-07.46.24:548][872]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartupMap'.
+[2024.08.07-07.46.24:548][872]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.08.07-07.46.24:550][872]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.08.07-07.46.24:553][872]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.08.07-00.46.24
+[2024.08.07-07.46.24:554][872]LogWorld: Bringing up level for play took: 0.003404
+[2024.08.07-07.46.24:555][872]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.08.07-07.46.24:558][872]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.08.07-07.46.24:558][872]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.08.07-07.46.24:562][872]PIE: Server logged in
+[2024.08.07-07.46.24:562][872]PIE: Play in editor total start time 0.08 seconds.
+[2024.08.07-07.46.29:246][426]Cmd: showdebug abilitysystem
+[2024.08.07-07.46.40:828][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.07-07.46.40:828][812]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.08.07-07.46.40:828][812]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.07-07.46.40:829][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.07-07.46.40:829][812]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.08.07-07.46.40:829][812]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.08.07-07.46.40:830][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.07-07.46.40:833][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.07-07.46.40:840][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.07-07.46.40:840][812]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.08.07-07.46.40:840][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.08.07-07.46.40:841][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.08.07-07.46.40:853][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.08.07-07.46.40:906][814]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.08.07-07.46.46:127][361]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Crystals/GE_CrystalHeal.GE_CrystalHeal
+[2024.08.07-07.46.46:127][361]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2024.08.07-07.47.36:286][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.08.07-07.49.48:139][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.08.07-07.50.08:652][845]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Potions/GE_PotionMana.GE_PotionMana
+[2024.08.07-07.50.08:653][845]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2024.08.07-07.50.40:627][793]LogBlueprint: Error: [AssetLog] C:\Users\tom\Documents\GitHub\Aura\Content\Blueprints\Actors\Potions\GE_PotionMana.uasset: [Compiler] GE Default__GE_PotionMana_C is set to Instant so TargetTagsGameplayEffectComponent will not be able to apply its tags.
+[2024.08.07-07.50.40:639][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.08.07-07.51.44:617][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.08.07-07.52.32:621][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.08.07-07.52.32:623][134]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.009
+[2024.08.07-07.52.32:623][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal] ([2] browsable assets)...
+[2024.08.07-07.52.32:623][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal]
+[2024.08.07-07.52.32:625][134]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Crystals/GE_CrystalHeal_Auto3
+[2024.08.07-07.52.32:625][134]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_CrystalHeal_Auto312D1988A4544165DBEFE1D93C831D6F4.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Blueprints/Actors/Crystals/GE_CrystalHeal_Auto3.uasset'
+[2024.08.07-07.52.32:625][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Potions/GE_PotionMana] ([2] browsable assets)...
+[2024.08.07-07.52.32:626][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Potions/GE_PotionMana]
+[2024.08.07-07.52.32:627][134]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/Potions/GE_PotionMana_Auto3
+[2024.08.07-07.52.32:627][134]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_PotionMana_Auto3A392C4B14B4EE4E378E11495D5340B22.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Blueprints/Actors/Potions/GE_PotionMana_Auto3.uasset'
+[2024.08.07-07.52.32:627][134]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.08.07-07.52.33:622][207]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.08.07-07.52.33:622][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.07-07.52.33:643][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.08.07-07.52.35:954][385]LogSlate: Window 'GE_CrystalHeal' being destroyed
+[2024.08.07-07.52.35:970][385]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.08.07-07.52.35:970][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.07-07.52.35:993][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.08.07-07.52.40:713][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.08.07-07.52.42:653][881]LogSlate: Window 'Save Content' being destroyed
+[2024.08.07-07.52.42:664][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.07-07.52.42:714][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartupMap" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Content/Maps/StartupMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.07-07.52.42:729][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.08.07-07.52.42:739][881]LogSavePackage: Moving output files for package: /Game/Maps/StartupMap
+[2024.08.07-07.52.42:739][881]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/StartupMap7A01D7924B548273F45A2DA02CDBB45A.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Maps/StartupMap.umap'
+[2024.08.07-07.52.42:742][881]LogFileHelpers: Saving map 'StartupMap' took 0.029
+[2024.08.07-07.52.42:742][881]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal] ([2] browsable assets)...
+[2024.08.07-07.52.42:742][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Crystals/GE_CrystalHeal]
+[2024.08.07-07.52.42:742][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/Crystals/GE_CrystalHeal" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalHeal.uasset" SILENT=true
+[2024.08.07-07.52.42:744][881]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/Crystals/GE_CrystalHeal
+[2024.08.07-07.52.42:744][881]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_CrystalHealA611969F4A97CDE74B906CBF8D7F5CB9.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Crystals/GE_CrystalHeal.uasset'
+[2024.08.07-07.52.42:744][881]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Potions/GE_PotionMana] ([2] browsable assets)...
+[2024.08.07-07.52.42:744][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Potions/GE_PotionMana]
+[2024.08.07-07.52.42:744][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/Potions/GE_PotionMana" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Potions/GE_PotionMana.uasset" SILENT=true
+[2024.08.07-07.52.42:746][881]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/Potions/GE_PotionMana
+[2024.08.07-07.52.42:746][881]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_PotionMana5AC9560C42CEA29C4AAD7D91B7E49981.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/Potions/GE_PotionMana.uasset'
+[2024.08.07-07.52.42:756][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.713 ms (total: 777.093 ms)
+[2024.08.07-07.52.42:781][881]LogContentValidation: Display: Starting to validate 3 assets
+[2024.08.07-07.52.42:781][881]LogContentValidation: Enabled validators:
+[2024.08.07-07.52.42:781][881]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.07-07.52.42:781][881]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.07-07.52.42:781][881]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.07-07.52.42:781][881]LogContentValidation: Display: Validating asset /Game/Maps/StartupMap.StartupMap
+[2024.08.07-07.52.42:782][881]AssetCheck: /Game/Maps/StartupMap Validating asset
+[2024.08.07-07.52.42:782][881]LogContentValidation: Display: Validating asset /Game/Blueprints/Actors/Crystals/GE_CrystalHeal.GE_CrystalHeal
+[2024.08.07-07.52.42:782][881]AssetCheck: /Game/Blueprints/Actors/Crystals/GE_CrystalHeal Validating asset
+[2024.08.07-07.52.42:782][881]LogContentValidation: Display: Validating asset /Game/Blueprints/Actors/Potions/GE_PotionMana.GE_PotionMana
+[2024.08.07-07.52.42:782][881]AssetCheck: /Game/Blueprints/Actors/Potions/GE_PotionMana Validating asset
+[2024.08.07-07.52.44:807][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.08.07-07.52.44:817][ 84]LogStall: Shutdown...
+[2024.08.07-07.52.44:819][ 84]LogStall: Shutdown complete.
+[2024.08.07-07.52.44:835][ 84]LogSlate: Window 'Aura - Unreal Editor' being destroyed
+[2024.08.07-07.52.44:901][ 84]Cmd: QUIT_EDITOR
+[2024.08.07-07.52.44:902][ 84]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.08.07-07.52.44:904][ 85]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.08.07-07.52.44:904][ 85]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.08.07-07.52.44:904][ 85]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.08.07-07.52.44:905][ 85]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.07-07.52.44:905][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.07-07.52.44:905][ 85]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.08.07-07.52.44:905][ 85]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.08.07-07.52.44:907][ 85]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.08.07-07.52.44:931][ 85]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.08.07-07.52.44:931][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.07-07.52.44:932][ 85]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.08.07-07.52.44:932][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.07-07.52.44:933][ 85]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.08.07-07.52.44:933][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.07-07.52.44:934][ 85]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.08.07-07.52.44:934][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.07-07.52.44:935][ 85]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.08.07-07.52.44:935][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.07-07.52.44:936][ 85]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.08.07-07.52.44:937][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.07-07.52.44:998][ 85]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.08.07-07.52.44:999][ 85]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.08.07-07.52.44:999][ 85]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.08.07-07.52.44:999][ 85]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.08.07-07.52.45:058][ 85]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.08.07-07.52.45:058][ 85]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.08.07-07.52.45:058][ 85]LogAudio: Display: Audio Device unregistered from world 'StartupMap'.
+[2024.08.07-07.52.45:058][ 85]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.08.07-07.52.45:059][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.08.07-07.52.45:060][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.08.07-07.52.45:063][ 85]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.08.07-07.52.45:063][ 85]LogAudio: Display: Audio Device Manager Shutdown
+[2024.08.07-07.52.45:075][ 85]LogSlate: Window 'Content Browser' being destroyed
+[2024.08.07-07.52.45:087][ 85]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.08.07-07.52.45:094][ 85]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.08.07-07.52.45:094][ 85]LogExit: Preparing to exit.
+[2024.08.07-07.52.45:109][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.08.07-07.52.45:113][ 85]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:114][ 85]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:115][ 85]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:115][ 85]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:115][ 85]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.08.07-07.52.45:464][ 85]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.08.07-07.52.45:471][ 85]LogExit: Editor shut down
+[2024.08.07-07.52.45:474][ 85]LogExit: Transaction tracking system shut down
+[2024.08.07-07.52.45:542][ 85]LogExit: Object subsystem successfully closed.
+[2024.08.07-07.52.45:556][ 85]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.08.07-07.52.45:660][ 85]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.08.07-07.52.45:808][ 85]MemoryProfiler: Shutdown
+[2024.08.07-07.52.45:808][ 85]NetworkingProfiler: Shutdown
+[2024.08.07-07.52.45:808][ 85]LoadingProfiler: Shutdown
+[2024.08.07-07.52.45:808][ 85]TimingProfiler: Shutdown
+[2024.08.07-07.52.45:839][ 85]LogOpenImageDenoise: OIDN shutting down
+[2024.08.07-07.52.46:210][ 85]RenderDocPlugin: plugin has been unloaded.
+[2024.08.07-07.52.46:218][ 85]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.08.07-07.52.46:251][ 85]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.08.07-07.52.46:251][ 85]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D77275-4E35-97DF-6EC8-68A7883741B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.3-34507850%2B%2B%2BUE5%2BRelease-5.4&UserID=154947da4f2bb4fbce3a4a9d02568513%7C158c287d3d7042f19181c74cccbbc5b0%7C78b1f9a3-2eb8-438f-b9d0-2ee57da2f27b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.08.07-07.52.46:259][ 85]LogXGEController: Cleaning working directory: C:/Users/tom/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.08.07-07.52.46:260][ 85]LogPakFile: Destroying PakPlatformFile
+[2024.08.07-07.52.46:262][ 85]LogD3D11RHI: Shutdown
+[2024.08.07-07.52.46:262][ 85]LogD3D11RHI: CleanupD3DDevice
+[2024.08.07-07.52.46:286][ 85]LogExit: Exiting.
+[2024.08.07-07.52.46:300][ 85]Log file closed, 08/07/24 00:52:46
