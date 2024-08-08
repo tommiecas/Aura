@@ -1444,3 +1444,250 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.08.08-04.35.25:479][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.08.08-04.35.25:487][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
 [2024.08.08-04.35.25:590][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.08.08-05.30.48:166][723]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.08.08-06.13.46:931][874]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2024.08.08-06.13.46:966][877]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2024.08.08-06.13.49:047][113]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Potions/GE_PotionHeal.GE_PotionHeal
+[2024.08.08-06.13.49:048][113]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_11'.
+[2024.08.08-06.14.42:556][901]LogSlate: Window 'GE_PotionHeal' being destroyed
+[2024.08.08-06.14.42:603][901]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.08.08-06.14.42:603][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.08-06.14.42:630][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.08.08-06.14.51:080][790]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.08.08-06.14.51:093][790]LogContentBrowser: Creating deferred item: NewFolder
+[2024.08.08-06.14.51:099][791]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.08.08-06.14.54:744][208]LogContentBrowser: Attempting asset rename: NewFolder -> TestActor
+[2024.08.08-06.14.54:744][208]LogContentBrowser: End creating deferred item NewFolder
+[2024.08.08-06.15.08:358][988]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.08.08-06.15.08:367][988]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.08.08-06.15.08:371][988]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.08.08-06.15.08:386][990]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.08.08-06.15.15:973][864]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_TestActor
+[2024.08.08-06.15.15:977][864]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.08.08-06.15.17:794][ 72]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/TestActor/BP_TestActor.BP_TestActor
+[2024.08.08-06.15.17:795][ 72]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2024.08.08-06.16.50:098][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.08.08-06.16.51:038][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-06.16.51:073][775]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/TestActor/BP_TestActor] ([2] browsable assets)...
+[2024.08.08-06.16.51:073][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/TestActor/BP_TestActor]
+[2024.08.08-06.16.51:073][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/TestActor/BP_TestActor" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/TestActor/BP_TestActor.uasset" SILENT=true
+[2024.08.08-06.16.51:076][775]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/TestActor/BP_TestActor
+[2024.08.08-06.16.51:076][775]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/BP_TestActorB6501D0F4ABE45774CABB88FABD291B5.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/TestActor/BP_TestActor.uasset'
+[2024.08.08-06.16.51:088][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.296 ms (total: 371.615 ms)
+[2024.08.08-06.16.51:140][775]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.08-06.16.51:141][775]LogContentValidation: Enabled validators:
+[2024.08.08-06.16.51:141][775]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.08-06.16.51:141][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.08-06.16.51:141][775]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.08-06.16.51:141][775]LogContentValidation: Display: Validating asset /Game/Blueprints/Actors/TestActor/BP_TestActor.BP_TestActor
+[2024.08.08-06.16.51:141][775]AssetCheck: /Game/Blueprints/Actors/TestActor/BP_TestActor Validating asset
+[2024.08.08-06.16.52:630][911]LogSlate: Window 'BP_TestActor' being destroyed
+[2024.08.08-06.16.52:644][911]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.08.08-06.16.52:644][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.08-06.16.52:666][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.08.08-06.17.16:045][461]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/TestActor/BP_TestActor.BP_TestActor_C
+[2024.08.08-06.17.16:045][461]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/TestActor/BP_TestActor.BP_TestActor_C
+[2024.08.08-06.17.16:046][461]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/TestActor/BP_TestActor.BP_TestActor as actor: BP_TestActor_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_TestActor_C_0
+[2024.08.08-06.17.16:046][461]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/TestActor/BP_TestActor.BP_TestActor as actor: BP_TestActor_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_TestActor_C_0
+[2024.08.08-06.17.16:048][461]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.08.08-06.17.20:511][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.08.08-06.17.20:512][936]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2024.08.08-06.17.20:521][936]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/TestActor/BP_TestActor.BP_TestActor_C
+[2024.08.08-06.17.20:521][936]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Actors/TestActor/BP_TestActor.BP_TestActor_C
+[2024.08.08-06.17.20:523][936]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/TestActor/BP_TestActor.BP_TestActor as actor: BP_TestActor_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_TestActor_C_1
+[2024.08.08-06.17.20:523][936]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Actors/TestActor/BP_TestActor.BP_TestActor as actor: BP_TestActor_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_TestActor_C_1
+[2024.08.08-06.17.43:380][642]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.08.08-06.17.43:390][642]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.08.08-06.17.43:396][642]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.08.08-06.17.43:404][643]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.08.08-06.18.06:253][ 90]LogContentBrowser: Attempting asset rename: NewBlueprint -> GE_TestAttributeBase
+[2024.08.08-06.18.06:257][ 90]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.08.08-06.18.07:604][229]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/TestActor/GE_TestAttributeBase.GE_TestAttributeBase
+[2024.08.08-06.18.07:604][229]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2024.08.08-06.18.11:709][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/TestActor/BP_TestActor.BP_TestActor
+[2024.08.08-06.18.11:710][588]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2024.08.08-06.18.41:288][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.08.08-06.19.28:171][811]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 138811
+[2024.08.08-06.19.28:171][811]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.08.08-06.19.37:014][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.08.08-06.19.37:018][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartupMap" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.08.08-06.19.37:024][470]LogWorldPartition: Can't find class descriptor '/Game/Maps/StartupMap.StartupMap_C' for saving '/Game/Maps/StartupMap.StartupMap_C'
+[2024.08.08-06.19.37:024][470]LogWorldPartition: Can't find class descriptor '/Game/Maps/StartupMap.StartupMap_C' for saving '/Game/Maps/StartupMap.StartupMap_C'
+[2024.08.08-06.19.37:027][470]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/StartupMap_Auto1
+[2024.08.08-06.19.37:028][470]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/StartupMap_Auto16A8E98D0429A59A77AF6D29DDBEACFB7.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto1.umap'
+[2024.08.08-06.19.37:028][470]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto1.umap is in the /Temp path, will not scan.
+[2024.08.08-06.19.37:028][470]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.021
+[2024.08.08-06.19.37:029][470]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2024.08.08-06.19.37:029][470]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/TestActor/BP_TestActor] ([2] browsable assets)...
+[2024.08.08-06.19.37:029][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/TestActor/BP_TestActor]
+[2024.08.08-06.19.37:031][470]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/TestActor/BP_TestActor_Auto1
+[2024.08.08-06.19.37:031][470]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/BP_TestActor_Auto1B0E225C6458D9C81C64881BA81A9CF60.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Blueprints/Actors/TestActor/BP_TestActor_Auto1.uasset'
+[2024.08.08-06.19.37:032][470]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/TestActor/GE_TestAttributeBase] ([2] browsable assets)...
+[2024.08.08-06.19.37:032][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/TestActor/GE_TestAttributeBase]
+[2024.08.08-06.19.37:033][470]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Actors/TestActor/GE_TestAttributeBase_Auto1
+[2024.08.08-06.19.37:033][470]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_TestAttributeBase_Auto1D21E5ED54C70591DE9089FB4B0BD5205.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/Autosaves/Game/Blueprints/Actors/TestActor/GE_TestAttributeBase_Auto1.uasset'
+[2024.08.08-06.19.37:033][470]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.08.08-06.21.09:567][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.08.08-06.21.11:266][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-06.21.11:301][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/TestActor/GE_TestAttributeBase] ([2] browsable assets)...
+[2024.08.08-06.21.11:301][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/TestActor/GE_TestAttributeBase]
+[2024.08.08-06.21.11:303][292]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/TestActor/GE_TestAttributeBase
+[2024.08.08-06.21.11:303][292]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_TestAttributeBase031AC996442111A989EB3A8C07CBB7AD.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/TestActor/GE_TestAttributeBase.uasset'
+[2024.08.08-06.21.11:315][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.590 ms (total: 420.205 ms)
+[2024.08.08-06.21.11:367][292]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.08-06.21.11:367][292]LogContentValidation: Enabled validators:
+[2024.08.08-06.21.11:367][292]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.08-06.21.11:368][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.08-06.21.11:368][292]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.08-06.21.11:368][292]LogContentValidation: Display: Validating asset /Game/Blueprints/Actors/TestActor/GE_TestAttributeBase.GE_TestAttributeBase
+[2024.08.08-06.21.11:368][292]AssetCheck: /Game/Blueprints/Actors/TestActor/GE_TestAttributeBase Validating asset
+[2024.08.08-06.21.12:517][386]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.08.08-06.21.12:517][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.08-06.21.12:539][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.08.08-06.21.15:289][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-06.21.15:341][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/TestActor/BP_TestActor] ([2] browsable assets)...
+[2024.08.08-06.21.15:341][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/TestActor/BP_TestActor]
+[2024.08.08-06.21.15:341][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/TestActor/BP_TestActor" FILE="../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/TestActor/BP_TestActor.uasset" SILENT=true
+[2024.08.08-06.21.15:342][635]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/TestActor/BP_TestActor
+[2024.08.08-06.21.15:344][635]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/BP_TestActorE3DE40B44C4160ECF5F887974F95B60B.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/TestActor/BP_TestActor.uasset'
+[2024.08.08-06.21.15:354][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.299 ms (total: 484.504 ms)
+[2024.08.08-06.21.15:401][635]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.08-06.21.15:401][635]LogContentValidation: Enabled validators:
+[2024.08.08-06.21.15:401][635]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.08-06.21.15:401][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.08-06.21.15:401][635]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.08-06.21.15:401][635]LogContentValidation: Display: Validating asset /Game/Blueprints/Actors/TestActor/BP_TestActor.BP_TestActor
+[2024.08.08-06.21.15:401][635]AssetCheck: /Game/Blueprints/Actors/TestActor/BP_TestActor Validating asset
+[2024.08.08-06.21.16:690][740]LogSlate: Window 'BP_TestActor' being destroyed
+[2024.08.08-06.21.16:707][740]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.08.08-06.21.16:708][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.08-06.21.16:735][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.08.08-06.21.19:252][995]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.08-06.21.19:258][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.08-06.21.19:295][995]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.08.08-06.21.19:298][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003006s)
+[2024.08.08-06.21.19:298][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.003206s)
+[2024.08.08-06.21.19:308][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.08.08-06.21.19:309][995]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.08.08-06.21.19:309][995]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Maps/UEDPIE_0_StartupMap.StartupMap'.
+[2024.08.08-06.21.19:310][995]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2024.08.08-06.21.19:316][995]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.08.08-06.21.19:316][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.08-06.21.19:316][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.08-06.21.19:317][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.08-06.21.19:317][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.08-06.21.19:317][995]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.08-06.21.19:317][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.08-06.21.19:317][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.08-06.21.19:317][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.08-06.21.19:317][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.08-06.21.19:317][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.08-06.21.19:317][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.08-06.21.19:318][995]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.08-06.21.19:329][995]LogAudioMixer: Display: Using Audio Hardware Device 4 - LU28R55 (AMD High Definition Audio Device)
+[2024.08.08-06.21.19:329][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.08-06.21.19:329][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.08-06.21.19:329][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.08-06.21.19:330][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.08.08-06.21.19:330][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.08.08-06.21.19:331][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.08.08-06.21.19:331][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.08.08-06.21.19:331][995]LogInit: FAudioDevice initialized with ID 3.
+[2024.08.08-06.21.19:331][995]LogAudio: Display: Audio Device (ID: 3) registered with world 'StartupMap'.
+[2024.08.08-06.21.19:331][995]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.08.08-06.21.19:333][995]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.08.08-06.21.19:336][995]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.08.07-23.21.19
+[2024.08.08-06.21.19:337][995]LogWorld: Bringing up level for play took: 0.003401
+[2024.08.08-06.21.19:338][995]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.08.08-06.21.19:340][995]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.08.08-06.21.19:340][995]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.08.08-06.21.19:345][995]PIE: Server logged in
+[2024.08.08-06.21.19:345][995]PIE: Play in editor total start time 0.09 seconds.
+[2024.08.08-06.21.23:493][486]Cmd: showdebug abilitysystem
+[2024.08.08-06.21.27:619][981]LogMetaSound: Display: Auto-Updating '/Game/Assets/Sounds/FootSteps/sfx_Footsteps.sfx_Footsteps' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2024.08.08-06.21.38:636][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.08-06.21.38:636][300]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.08.08-06.21.38:636][300]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.08-06.21.38:637][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.08-06.21.38:637][300]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.08.08-06.21.38:637][300]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.08.08-06.21.38:639][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.08-06.21.38:641][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.08-06.21.38:647][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.08-06.21.38:647][300]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.08.08-06.21.38:647][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.08.08-06.21.38:648][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.08.08-06.21.38:664][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.08.08-06.21.38:719][302]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.08.08-06.21.49:922][511]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/TestActor/GE_TestAttributeBase.GE_TestAttributeBase
+[2024.08.08-06.21.49:922][511]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2024.08.08-06.23.02:453][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.08.08-06.23.03:455][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.08-06.23.03:515][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/TestActor/GE_TestAttributeBase] ([2] browsable assets)...
+[2024.08.08-06.23.03:515][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/TestActor/GE_TestAttributeBase]
+[2024.08.08-06.23.03:517][581]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/TestActor/GE_TestAttributeBase
+[2024.08.08-06.23.03:517][581]LogSavePackage: Moving '../../../../../../Users/tom/Documents/GitHub/Aura/Saved/GE_TestAttributeBase9359366C44E5A22658E177B2ED67A388.tmp' to '../../../../../../Users/tom/Documents/GitHub/Aura/Content/Blueprints/Actors/TestActor/GE_TestAttributeBase.uasset'
+[2024.08.08-06.23.03:527][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.651 ms (total: 556.156 ms)
+[2024.08.08-06.23.03:565][581]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.08-06.23.03:565][581]LogContentValidation: Enabled validators:
+[2024.08.08-06.23.03:565][581]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.08-06.23.03:565][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.08-06.23.03:565][581]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.08-06.23.03:565][581]LogContentValidation: Display: Validating asset /Game/Blueprints/Actors/TestActor/GE_TestAttributeBase.GE_TestAttributeBase
+[2024.08.08-06.23.03:565][581]AssetCheck: /Game/Blueprints/Actors/TestActor/GE_TestAttributeBase Validating asset
+[2024.08.08-06.23.11:879][274]LogSlate: Window 'GE_TestAttributeBase' being destroyed
+[2024.08.08-06.23.14:474][554]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.08-06.23.14:480][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.08-06.23.14:512][554]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.08.08-06.23.14:515][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002683s)
+[2024.08.08-06.23.14:515][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.002833s)
+[2024.08.08-06.23.14:521][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.08.08-06.23.14:523][554]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.08.08-06.23.14:524][554]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Maps/UEDPIE_0_StartupMap.StartupMap'.
+[2024.08.08-06.23.14:524][554]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2024.08.08-06.23.14:534][554]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.08.08-06.23.14:534][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.08-06.23.14:535][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.08-06.23.14:535][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.08-06.23.14:535][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.08-06.23.14:535][554]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.08-06.23.14:535][554]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.08-06.23.14:535][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.08-06.23.14:535][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.08-06.23.14:535][554]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.08-06.23.14:535][554]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.08-06.23.14:535][554]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.08-06.23.14:536][554]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.08-06.23.14:545][554]LogAudioMixer: Display: Using Audio Hardware Device 4 - LU28R55 (AMD High Definition Audio Device)
+[2024.08.08-06.23.14:545][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.08-06.23.14:545][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.08-06.23.14:545][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.08-06.23.14:546][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.08.08-06.23.14:546][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.08.08-06.23.14:547][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.08.08-06.23.14:547][554]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.08.08-06.23.14:547][554]LogInit: FAudioDevice initialized with ID 4.
+[2024.08.08-06.23.14:547][554]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartupMap'.
+[2024.08.08-06.23.14:547][554]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.08.08-06.23.14:548][554]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.08.08-06.23.14:550][554]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.08.07-23.23.14
+[2024.08.08-06.23.14:551][554]LogWorld: Bringing up level for play took: 0.003140
+[2024.08.08-06.23.14:552][554]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.08.08-06.23.14:555][554]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.08.08-06.23.14:555][554]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.08.08-06.23.14:562][554]PIE: Server logged in
+[2024.08.08-06.23.14:563][554]PIE: Play in editor total start time 0.085 seconds.
+[2024.08.08-06.23.29:763][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.08-06.23.29:763][371]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.08.08-06.23.29:763][371]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.08-06.23.29:764][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.08-06.23.29:764][371]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.08.08-06.23.29:764][371]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.08.08-06.23.29:766][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.08-06.23.29:768][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.08-06.23.29:778][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.08-06.23.29:778][371]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.08.08-06.23.29:778][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.08.08-06.23.29:780][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.08.08-06.23.29:784][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.08.08-06.23.29:839][373]LogPlayLevel: Display: Destroying online subsystem :Context_19
